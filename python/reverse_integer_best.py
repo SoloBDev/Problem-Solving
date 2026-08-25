@@ -1,6 +1,6 @@
 class Solution:
   def reverse_integer(self, x):
-    isNegative = False\
+    isNegative = False
     
     if(x < 0):
       isNegative = True
